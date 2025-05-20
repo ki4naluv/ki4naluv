@@ -3,7 +3,8 @@
 **`Desenvolvedora FullStack`**
 
 Olá! Me chamo Thifanny Cristina, tenho 22 anos e sou natural de Minas Gerais. Atualmente, faço faculdade de Análise e Desenvolvimento de Sistemas na Una. 
----
+<p align="left">
+    ---
 
 ### 🤖 Linguagens e Tecnologias
 
